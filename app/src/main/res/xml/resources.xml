@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <person>
+        <name>Bob</name>
+        <age>72</age>
+        <limbs>4</limbs>
+    </person>
+    <person>
+        <name>Judy</name>
+        <age>23</age>
+        <limbs>3</limbs>
+    </person>
+    <person>
+        <name>Eyer</name>
+        <age>367</age>
+        <limbs>6</limbs>
+    </person>
+</resources>
